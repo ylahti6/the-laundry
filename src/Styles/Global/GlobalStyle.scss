@@ -10,3 +10,11 @@ body {
     // color: red;
     font-family:Arial, Helvetica, sans-serif;
 }
+
+
+.icon {
+    color: var(--dark-grey);
+    font-size: 1rem;
+
+    .light { color: var(--light);}
+}
